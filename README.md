@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=1000&lines=Erick+Sousa;Back+End+Developer;Java+%7C+Spring+Boot+%7C+MySQL+%7c+PostgreSQL)](https://git.io/typing-svg)
 
 🚀 **Backend Developer** 
