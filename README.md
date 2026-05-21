@@ -29,5 +29,5 @@ I'm a **back-end developer**, passionate about technology, programming, and prob
 <p align="center">
   <img src="https://raw.githubusercontent.com/erickdsr/erickdsr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-=======
+
 
