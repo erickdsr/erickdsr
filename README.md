@@ -45,8 +45,12 @@ I'm a **back-end developer**, passionate about technology, programming, and prob
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 ---
-
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdsr&layout=compact&theme=dark"/>
+</p>
+<p align="center">
+---  
   <img src="https://raw.githubusercontent.com/erickdsr/erickdsr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
