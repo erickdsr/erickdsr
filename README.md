@@ -8,10 +8,10 @@ I'm a **back-end developer**, passionate about technology, programming, and prob
 
 <p align="left">
   <a href="https://github.com/Erickdsr">
-    <img src="https://img.shields.io/badge/GitHub-erickdsr-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 
   <a href= "https://www.linkedin.com/in/erick-de-sousa-rodrigues-34b8193b2/">  
- <img src="https://img.shields.io/badge/LinkedIn-Erick_de_Sousa_Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p> 
 
 ## 🛠️ Tech Stack
