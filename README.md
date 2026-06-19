@@ -9,9 +9,13 @@ I'm a **back-end developer**, passionate about technology, programming, and prob
 <p align="left">
   <a href="https://github.com/Erickdsr">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
 
-  <a href= "https://www.linkedin.com/in/erick-de-sousa-rodrigues-34b8193b2/">  
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/erick-de-sousa-rodrigues-34b8193b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p> 
 
 ## 🛠️ Tech Stack
@@ -45,12 +49,12 @@ I'm a **back-end developer**, passionate about technology, programming, and prob
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 ---
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdsr&layout=compact&theme=dark" />
+</div>
+---
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdsr&layout=compact&theme=dark"/>
-</p>
-<p align="center">
----  
   <img src="https://raw.githubusercontent.com/erickdsr/erickdsr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
