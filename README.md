@@ -1,5 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F5F5F5=center=true&vCenter=true&width=1000&lines=Erick+Sousa;Back+End+Developer;Java+%7C+Spring+Boot)](https://git.io/typing-svg)
+<div align="center">
 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=1000&lines=Erick+Sousa;Back+End+Developer;Java+%7C+Spring+Boot)](https://git.io/typing-svg)
+
+</div>
 🚀 **Backend Developer** 
 
 I'm a **back-end developer**, passionate about technology, programming, and problem-solving. Currently, I'm focusing my studies on **software development**, always striving to create useful **projects that generate real impact**. I enjoy learning by doing and am always looking for new challenges **to grow professionally in the technology field**.
