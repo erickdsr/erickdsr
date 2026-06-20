@@ -23,7 +23,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e estou em busca de opor
   </a>
 </p> 
 
-## 🛠️ Tech Stack
+## Stack
 
 ### Backend
 
