@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=1000&lines=Erick+Sousa;Back+End+Developer)](https://git.io/typing-svg)
 
 </div>
-🚀 ** Desenvolvedor Back-end ** 
+##🚀 Desenvolvedor Back-end
 
 Desenvolvedor Back-End em formação, com foco em Java e Spring Boot. Possuo experiência na criação de APIs REST, integração com bancos de dados relacionais, documentação de serviços utilizando OpenAPI/Swagger e aplicação de boas práticas de desenvolvimento.
 
