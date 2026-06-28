@@ -4,7 +4,7 @@
 
 </div>
 
-## - Desenvolvedor Back-end
+## Desenvolvedor Back-end
 
 Desenvolvedor Back-End em formação, com foco em Java e Spring Boot. Possuo experiência na criação de APIs REST, integração com bancos de dados relacionais, documentação de serviços utilizando OpenAPI/Swagger e aplicação de boas práticas de desenvolvimento.
 
@@ -12,7 +12,7 @@ Busco constantemente aperfeiçoar meus conhecimentos através de projetos práti
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e estou em busca de oportunidades para aplicar e expandir minhas habilidades no desenvolvimento de soluções back-end modernas.
 
-## - Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/Erickdsr">
@@ -24,26 +24,32 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e estou em busca de opor
   </a>
 </p> 
 
-## - Stack
+## Stack
 
-### - Backend
+### Frontend
+	
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+### Backend
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 
-### - Databases
+### Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
-### - DevOps
+### DevOps
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-### - Tests
+### Tests
 
 [![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
 
@@ -54,6 +60,14 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e estou em busca de opor
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+
+### IAs
+
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+  
 ---
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark" />
