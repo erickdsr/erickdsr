@@ -4,7 +4,7 @@
 
 </div>
 
-## 🚀 Desenvolvedor Back-end
+## - Desenvolvedor Back-end
 
 Desenvolvedor Back-End em formação, com foco em Java e Spring Boot. Possuo experiência na criação de APIs REST, integração com bancos de dados relacionais, documentação de serviços utilizando OpenAPI/Swagger e aplicação de boas práticas de desenvolvimento.
 
@@ -12,7 +12,7 @@ Busco constantemente aperfeiçoar meus conhecimentos através de projetos práti
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e estou em busca de oportunidades para aplicar e expandir minhas habilidades no desenvolvimento de soluções back-end modernas.
 
-## 🌐 Onde me encontrar
+## - Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/Erickdsr">
@@ -24,26 +24,26 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e estou em busca de opor
   </a>
 </p> 
 
-## 👨🏻‍💻 Stack
+## - Stack
 
-### Backend
+### - Backend
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 
-### Databases
+### - Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
-### DevOps
+### - DevOps
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-### Tests
+### - Tests
 
 [![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
 
