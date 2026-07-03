@@ -9,16 +9,19 @@
 Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gosto de desenvolver aplicações escaláveis, seguras e de alta performance, aplicando boas práticas como Clean Code, arquitetura de software e testes automatizados. Estou em constante evolução, criando projetos que unem qualidade técnica, boa experiência do usuário e soluções para problemas reais.
 
 ## Onde me encontrar
+<p align="center">
+  <a href="https://github.com/erickdsr">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)" />
+  </a>
 
-<p align="left">
-  <a href="https://github.com/Erickdsr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <br><br>
   <a href="https://www.linkedin.com/in/erick-de-sousa-rodrigues-34b8193b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" />
   </a>
-</p> 
+  <a
+	 href="mailto:erick.s0usa@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## Stack
 
