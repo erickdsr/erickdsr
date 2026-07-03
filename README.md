@@ -9,7 +9,7 @@
 Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gosto de desenvolver aplicações escaláveis, seguras e de alta performance, aplicando boas práticas como Clean Code, arquitetura de software e testes automatizados. Estou em constante evolução, criando projetos que unem qualidade técnica, boa experiência do usuário e soluções para problemas reais.
 
 ## Onde me encontrar
-<p align="center">
+<p align="flex">
   <a href="https://github.com/erickdsr">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)" />
   </a>
