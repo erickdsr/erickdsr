@@ -9,20 +9,17 @@
 Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gosto de desenvolver aplicações escaláveis, seguras e de alta performance, aplicando boas práticas como Clean Code, arquitetura de software e testes automatizados. Estou em constante evolução, criando projetos que unem qualidade técnica, boa experiência do usuário e soluções para problemas reais.
 
 ## Onde me encontrar
-<p align="flex">
-  <a href="https://github.com/erickdsr">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)" />
+<p style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://github.com/erickdsr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="https://www.linkedin.com/in/erick-de-sousa-rodrigues-34b8193b2/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" />
+  <a href="https://www.linkedin.com/in/erick-de-sousa-rodrigues-34b8193b2/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
-  <a
-	 href="mailto:erick.s0usa@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  <a href="mailto:erick.s0usa@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
 ## Stack
 
 ### Frontend
