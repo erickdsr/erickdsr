@@ -70,8 +70,8 @@ Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gost
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=3"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdsr&layout=compact&langs_count=7&theme=dark&v=3" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=erickdsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=erickdsr&layout=compact&langs_count=7&theme=dark" alt="Idiomas mais usados" />
 </p>
 
 <p align="center">
