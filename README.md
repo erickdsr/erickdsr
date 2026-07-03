@@ -20,6 +20,7 @@ Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gost
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 ## Stack
 
 ### Frontend
