@@ -68,9 +68,10 @@ Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gost
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
   
 ---
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdsr&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=3"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdsr&layout=compact&langs_count=7&theme=dark&v=3" />
 </p>
 
 <p align="center">
