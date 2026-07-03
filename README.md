@@ -68,10 +68,10 @@ Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gost
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
   
 ---
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdsr&layout=compact&theme=dark" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdsr&layout=compact&langs_count=7&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/erickdsr/erickdsr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
