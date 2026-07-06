@@ -51,6 +51,7 @@ Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gost
 ### Tests
 
 [![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
+[![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat)](#)
 
 ### Tools
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
