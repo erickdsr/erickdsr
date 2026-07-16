@@ -6,7 +6,9 @@
 
 ## Desenvolvedor Full Stack
 
-Desenvolvedor Full Stack com foco em Java, Spring Boot, React e TypeScript. Gosto de desenvolver aplicações escaláveis, seguras e de alta performance, aplicando boas práticas como Clean Code, arquitetura de software e testes automatizados. Estou em constante evolução, criando projetos que unem qualidade técnica, boa experiência do usuário e soluções para problemas reais.
+Desenvolvedor Full Stack com foco em **Java**, **Spring Boot**, **React** e **TypeScript**, desenvolvendo aplicações web escaláveis, seguras e de alto desempenho. Tenho experiência na construção de APIs REST, autenticação com JWT e Spring Security, persistência de dados com JPA/Hibernate, integração com bancos de dados relacionais e desenvolvimento de interfaces modernas e responsivas em React.
+
+Também aplico boas práticas como **Clean Code**, **arquitetura em camadas**, **testes automatizados** com **JUnit** e **Mockito**, documentação com **Swagger/OpenAPI**, **Docker**, **CI/CD** com GitHub Actions e versionamento com **Git**. Estou sempre buscando evoluir tecnicamente e desenvolver soluções que entreguem qualidade, manutenibilidade e uma boa experiência para o usuário.
 
 ## Onde me encontrar
 <p style="display: flex; gap: 10px; align-items: center;">
