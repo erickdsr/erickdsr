@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=1000&lines=Erick+Sousa;Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
-
+ 
 ## Desenvolvedor Full Stack
 
 Desenvolvedor Full Stack com foco em **Java**, **Spring Boot**, **React** e **TypeScript**, desenvolvendo aplicações web escaláveis, seguras e de alto desempenho. Tenho experiência na construção de **APIs REST**, autenticação com **JWT** e **Spring Security**, persistência de dados com **JPA/Hibernate**, integração com **bancos de dados relacionais** e desenvolvimento de interfaces modernas e responsivas em **React**.
