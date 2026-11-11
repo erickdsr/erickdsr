@@ -6,9 +6,11 @@
  
 ## Desenvolvedor Full Stack
 
-Desenvolvedor Full Stack com foco em **Java**, **Spring Boot**, **React** e **TypeScript**, desenvolvendo aplicações web escaláveis, seguras e de alto desempenho. Tenho experiência na construção de **APIs REST**, autenticação com **JWT** e **Spring Security**, persistência de dados com **JPA/Hibernate**, integração com **bancos de dados relacionais** e desenvolvimento de interfaces modernas e responsivas em **React**.
+Desenvolvedor Full Stack
 
-Atuo seguindo boas práticas como **Clean Code**, **arquitetura em camadas**, **testes automatizados** com **JUnit e Mockito**, documentação com **Swagger/OpenAPI**, **Docker**, **CI/CD** com GitHub Actions, versionamento com **Git** e metodologias ágeis **Scrum** e **Kanban**, buscando desenvolver soluções escaláveis, de fácil manutenção e com foco na qualidade do software e na melhor experiência para o usuário.
+Estagiário em desenvolvimento de software, trabalhando com **Java**, **Spring Boot**, **Angular** e **PostgreSQL**. Atuo no desenvolvimento de aplicações web, APIs REST e integração com bancos de dados.
+
+Também tenho experiência em projetos pessoais com **React**, **TypeScript** e **Node.js**, utilizando ferramentas como **Docker**, **GitHub Actions** para **CI/CD** e **testes automatizados**. Conhecimentos em arquitetura monolítica, Git e metodologias ágeis (**Scrum**).
 ## Onde me encontrar
 <p style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/erickdsr" target="_blank">
